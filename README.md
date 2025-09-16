@@ -43,7 +43,7 @@ The analysis of the sales data revealed several key insights into the business's
 
 An interactive dashboard was created in Excel to summarize the key findings visually, allowing for dynamic filtering by month and day of the week.
 
-`![Maven Roasters Dashboard](https://github.com/user-attachments/assets/e9949527-d7ba-48db-8fbb-5f8dda025e99)`
+![Maven Roasters Dashboard](https://github.com/user-attachments/assets/e9949527-d7ba-48db-8fbb-5f8dda025e99)
 
 ---
 
